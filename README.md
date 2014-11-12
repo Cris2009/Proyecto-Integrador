@@ -8,5 +8,5 @@ The team:
 - [ ] José Roberto Chávez Cobián
 - [ ] Luis Antonio Duran Piera
 - [ ] Héctor Eduardo Valencia Ruiz
-- [ ] Cristian Eduardo Guerer Hernández
+- [ ] Cristian Eduardo Guerrero Hernández
 
